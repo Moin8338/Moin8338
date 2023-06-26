@@ -40,7 +40,7 @@
 - 💬 Ask me about **React, Angular & Java(Spring boot)**
 
 - 📫 How to reach me **kadiwalmoinudin8338@gmail.com**
-
+<img src="https://user-images.githubusercontent.com/69046031/181695572-d47ed99f-25a8-474d-87ef-48e000750a5e.png" width="100%"/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ahmadmoinudin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmadmoinudin" height="30" width="40" /></a>
@@ -53,7 +53,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
-<!-- <img src="https://camo.githubusercontent.com/16209a08733f9d8dcce1e9d98b17b64e55519b69194844fbcc1082b0b96d58c6/68747470733a2f2f6769746875622d776964676574626f782e76657263656c2e6170702f6170692f70726f66696c653f757365726e616d653d6661697a616c31303826646174613d666f6c6c6f776572732c7265706f7369746f726965732c73746172732c636f6d6d697473267468656d653d7261646963616c" data-canonical-src="https://github-widgetbox.vercel.app/api/profile?username=moin8338&amp;data=followers,repositories,stars,commits&amp;theme=radical" style="max-width: 100%;"> -->
+<img src="https://github-widgetbox.vercel.app/api/profile?username=moin8338&amp;data=followers,repositories,stars,commits&amp;theme=radical" style="max-width: 100%;">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moin8338&show_icons=true&locale=en&layout=compact" alt="moin8338" /></p>
 
