@@ -6,6 +6,29 @@
 
 <p align="left"> <a href="https://twitter.com/ahmadmoinudin" target="blank"><img src="https://img.shields.io/twitter/follow/ahmadmoinudin?logo=twitter&style=for-the-badge" alt="ahmadmoinudin" /></a> </p>
 
+
+</br>
+<p dir="auto">☞ 〔 <g-emoji class="g-emoji" alias="white_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26aa.png">⚪️</g-emoji> 〕<g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> Java is Robust  | <g-emoji class="g-emoji" alias="rose" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f339.png">🌹</g-emoji> Python is Versatile</p>
+
+<p dir="auto">☞ 〔 <g-emoji class="g-emoji" alias="panda_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f43c.png">🐼</g-emoji> 〕Full-Stack DEV</p>
+
+<p dir="auto">☞ 〔 <g-emoji class="g-emoji" alias="handball_person" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f93e.png">🤾</g-emoji> 〕20</p>
+
+
+
+
+<p dir="auto">☞ 〔 <g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">👀</g-emoji> 〕<a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/4cef52e17d14c81e441c752acba0cdc7843b3aaaf2a54604f4af26836b997aea/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6661697a616c31303826636f6c6f723d646331343363"><img src="https://camo.githubusercontent.com/93b7a0be7985f5f79c536d8a492a95323066a7289a71c56ba53ccfdcee273a9b/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d6f696e38333338266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="moin8338" data-canonical-src="https://komarev.com/ghpvc/?username=moin8338&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a>
+<br></p>
+
+
+
+
+
+
+
+</br>
+
+
 - 🔭 I’m currently working on **Learning Management System**
 
 - 🌱 I’m currently learning **React, Angular & Java(Spring boot)**
@@ -30,6 +53,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<img src="https://camo.githubusercontent.com/16209a08733f9d8dcce1e9d98b17b64e55519b69194844fbcc1082b0b96d58c6/68747470733a2f2f6769746875622d776964676574626f782e76657263656c2e6170702f6170692f70726f66696c653f757365726e616d653d6661697a616c31303826646174613d666f6c6c6f776572732c7265706f7369746f726965732c73746172732c636f6d6d697473267468656d653d7261646963616c" data-canonical-src="https://github-widgetbox.vercel.app/api/profile?username=moin8338&amp;data=followers,repositories,stars,commits&amp;theme=radical" style="max-width: 100%;">
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moin8338&show_icons=true&locale=en&layout=compact" alt="moin8338" /></p>
 
